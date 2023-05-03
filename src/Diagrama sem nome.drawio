@@ -1,4 +1,4 @@
-<mxfile modified="2023-05-03T12:21:21.393Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="iOFgkm3mCQLwgOTBGSz2" version="21.1.7" type="github" pages="2">
+<mxfile modified="2023-05-03T12:22:39.069Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="U5c3I5YJicF4wxqmhFxg" version="21.1.7" type="github" pages="2">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -300,6 +300,12 @@
         </mxCell>
         <mxCell id="54ZdlSS0lWxX5zRLzE7I-13" value="CRM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="389" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="54ZdlSS0lWxX5zRLzE7I-14" value="Function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="187" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="54ZdlSS0lWxX5zRLzE7I-15" value="WebApp Collector" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
